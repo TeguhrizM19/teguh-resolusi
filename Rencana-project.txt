@@ -5,4 +5,4 @@ Membuat Web Perpustakaan
 - Membuat Create, Read, Update, Delete
 - Menambahkan JavaScript
   * Memakai Framework JavaScript
-- Menambahkan Import PDF
+  * React
