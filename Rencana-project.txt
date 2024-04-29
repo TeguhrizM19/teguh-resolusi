@@ -2,4 +2,5 @@ RENCANA PROJECT
 Membuat Web Perpustakaan
 - Membuat Create, Read, Update, Delete
 - Menambahkna JavaScript
+  * Memakai Framework JavaScript
 - Menambahkan Import PDF
