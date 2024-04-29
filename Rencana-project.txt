@@ -1,7 +1,8 @@
 RENCANA PROJECT
 Membuat Web Perpustakaan
-- Memakai bahasa pemrograman PHP
+- Bahasa Pemrograman PHP
+  * Memakai Framework Laravel
 - Membuat Create, Read, Update, Delete
-- Menambahkna JavaScript
+- Menambahkan JavaScript
   * Memakai Framework JavaScript
   * React
