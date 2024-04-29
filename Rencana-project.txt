@@ -1,6 +1,7 @@
 RENCANA PROJECT
 Membuat Web Perpustakaan
+- Memakai bahasa pemrograman PHP
 - Membuat Create, Read, Update, Delete
 - Menambahkna JavaScript
   * Memakai Framework JavaScript
-- Menambahkan Import PDF
+  * React
