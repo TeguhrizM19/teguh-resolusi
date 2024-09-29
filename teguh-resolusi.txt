@@ -1,5 +1,5 @@
 teguh resolusi
-html
 css
 javascript
 php
+laravel
